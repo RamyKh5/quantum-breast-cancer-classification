@@ -1,0 +1,5 @@
+pennylane
+numpy
+pandas
+scikit-learn
+matplotlib
